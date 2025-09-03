@@ -6,7 +6,7 @@ It helps organizations make **data-driven HR decisions** by visualizing key work
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 The dashboard was built using the following tools and technologies:
 -  **Tableau Desktop** – for creating visualizations and dashboards  
 -  **Excel/CSV** – used as the data source  
@@ -66,8 +66,8 @@ To deliver an **interactive HR analytics tool** that:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Divyanshu Chauhan**    
-- 📧Email - divyanshuc819@gmail.com  
+- Email - divyanshuc819@gmail.com  
 
 ---
