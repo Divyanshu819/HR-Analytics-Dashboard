@@ -1,21 +1,21 @@
 # HR-Analytics-Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 The **HR Analytics Dashboard** is an interactive Tableau project designed to analyze workforce data and provide actionable insights into employee attrition, performance, and compensation.  
 It helps organizations make **data-driven HR decisions** by visualizing key workforce trends.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 The dashboard was built using the following tools and technologies:
-- 📊 **Tableau Desktop** – for creating visualizations and dashboards  
-- 📂 **Excel/CSV** – used as the data source  
-- 🔗 **Data Modeling** – relationships established between employee, department, and performance data  
-- 📁 **File Format** – `.twbx` (Tableau Packaged Workbook for easy sharing)  
+-  **Tableau Desktop** – for creating visualizations and dashboards  
+-  **Excel/CSV** – used as the data source  
+-  **Data Modeling** – relationships established between employee, department, and performance data  
+-  **File Format** – `.twbx` (Tableau Packaged Workbook for easy sharing)  
 
 ---
 
-## 📂 Data Source
+##  Data Source
 **Source:** Simulated HR dataset representing employee records in a corporate workforce.  
 
 The dataset includes:  
@@ -26,7 +26,7 @@ The dataset includes:
 
 ---
 
-## 🌟 Features / Highlights
+##  Features / Highlights
 
 ### • Business Problem  
 Organizations often struggle with **high attrition rates, compensation alignment, and workforce planning**. Raw HR data makes it difficult to identify patterns and take proactive measures.
@@ -47,19 +47,19 @@ To deliver an **interactive HR analytics tool** that:
 - **Interactive Filters:** Drill down by Department, Job Role, or Education  
 
 ### • Business Impact & Insights  
-- ✅ Identify **high-risk attrition groups** for targeted retention strategies  
-- ✅ Improve **workforce planning** with clear visibility into employee distribution  
-- ✅ Ensure **compensation fairness** by linking salary with performance  
-- ✅ Enable **data-driven HR decisions** instead of relying on intuition  
+-  Identify **high-risk attrition groups** for targeted retention strategies  
+-  Improve **workforce planning** with clear visibility into employee distribution  
+-  Ensure **compensation fairness** by linking salary with performance  
+-  Enable **data-driven HR decisions** instead of relying on intuition  
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![HR Analytics Dashboard](https://github.com/Divyanshu819/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
 
 ---
 
-## 📖 How to Use
+##  How to Use
 1. Download the `.twbx` file from this repository.  
 2. Open it in **Tableau Desktop** or **Tableau Public**.  
 3. Interact with filters and visuals to explore insights.  
